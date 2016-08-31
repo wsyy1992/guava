@@ -62,7 +62,8 @@ Links
 - [Issue tracker: Report a defect or feature request](https://github.com/google/guava/issues/new)
 - [StackOverflow: Ask "how-to" and "why-didn't-it-work" questions](https://stackoverflow.com/questions/ask?tags=guava+java)
 - [guava-discuss: For open-ended questions and discussion](http://groups.google.com/group/guava-discuss)
-
+Google Guava官方教程（中文版）
+http://ifeve.com/google-guava/
 IMPORTANT WARNINGS
 ------------------
 
@@ -96,3 +97,4 @@ correctly in other environments.
 [guava-snapshot-api-docs]: http://google.github.io/guava/releases/snapshot/api/docs/
 [guava-snapshot-api-diffs]: http://google.github.io/guava/releases/snapshot/api/diffs/
 [Guava Explained]: https://github.com/google/guava/wiki/Home
+
